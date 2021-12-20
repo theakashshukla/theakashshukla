@@ -10,9 +10,7 @@ Here are some Points
 - 😄 Pronouns: 🤐
 - ⚡ Fun fact: 🥱😴
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<theakashshukla>&theme=<THEME_NAME>" />
-[![Akahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Akahs's GitHub stats]<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<theakashshukla>&theme=<vue-dark&show_icons=true>" />
 
 ### Social Connection 
 
