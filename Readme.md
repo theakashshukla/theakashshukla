@@ -11,6 +11,7 @@ Here are some Points
 - ⚡ Fun fact: 🥱😴
 
 [![Akahs's GitHub stats]<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<theakashshukla>&theme=<vue-dark&show_icons=true>" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=theakashshukla&show_icons=true&hide_border=true)
 
 ### Social Connection 
 
