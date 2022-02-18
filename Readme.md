@@ -10,9 +10,17 @@ Here are some Points
 - 😄 Pronouns: 🤐
 - ⚡ Fun fact: 🥱😴
 
-<!--- [![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=theakashshukla&theme=xcode)](https://git.io/starlightknown)
-  <p align="center"> --->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=theakashshukla&show_icons=true&hide_border=true)
+
+### Statistics 📈
+
+<!--- [![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=theakashshukla&theme=xcode)](https://git.io/starlightknown) --->
+  <p align="center"> 
+  
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=theakashshukla&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theakashshukla&theme=tokyonight" />
+ </p>
+ 
+<!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theakashshukla&show_icons=true&hide_border=true) --->
 
 ### Social Connection 
 
