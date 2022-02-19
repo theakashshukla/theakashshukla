@@ -13,7 +13,7 @@ Here are some Points
 
 ### Statistics 📈
 
-<!--- [![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=theakashshukla&theme=xcode)](https://git.io/starlightknown) --->
+ [![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=theakashshukla&theme=xcode)](https://git.io/starlightknown) 
   <p align="center"> 
   
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theakashshukla&show_icons=true&theme=tokyonight" />
