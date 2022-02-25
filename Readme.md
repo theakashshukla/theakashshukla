@@ -1,8 +1,8 @@
 # Hi, I'm Akash! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-I'm a Software Engineer...
+I'm a Software Engineer... 🧑‍💻
  
-## 🚀 About Me
+### 🚀 About Me
 
 - 🔭 I’m currently working on a Secret Project
 - 🌱 I’m currently learning Azure 🥱
