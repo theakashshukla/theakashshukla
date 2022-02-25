@@ -1,7 +1,8 @@
-## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Akash Shukla 
+# Hi, I'm Akash! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+I'm a Software Engineer...
  
-Here are some Points 
+## 🚀 About Me
 
 - 🔭 I’m currently working on a Secret Project
 - 🌱 I’m currently learning Azure 🥱
