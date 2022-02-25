@@ -14,7 +14,7 @@ I'm a Software Engineer... 🧑‍💻
 - ⚡ Fun fact: 🥱😴
 
 
-### Statistics 📈
+### 📈 Statistics 
 
 [![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=theakashshukla&theme=xcode)](https://git.io/starlightknown) 
  
@@ -25,7 +25,7 @@ I'm a Software Engineer... 🧑‍💻
  
 <!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theakashshukla&show_icons=true&hide_border=true) --->
 
-### Social Connection 📲
+### 📲 Social Connection
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='Medium' height='30'>](https://medium.com/@theakashshukla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/theakashshukla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/theakashshukla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/the_akashshukla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/theakashshukla)  
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='30'>](https://www.youtube.com/c/akashshukla/?sub_confirmation=1) --> 
