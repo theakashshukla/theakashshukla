@@ -1,7 +1,6 @@
 # Hi, I'm Akash! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-I'm a Software Engineer... 🧑‍💻
- 
+I'm a Software Engineer...🧑‍💻 passionate about Android development and designing, user experience, and bringing meaning to the world of Android through innovative designs and user friendly apps.
  
 ### 🚀 About Me
 
