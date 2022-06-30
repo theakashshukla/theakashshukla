@@ -87,4 +87,4 @@ src="https://img.shields.io/github/followers/theakashshukla?logo=github&style=fo
 
 <a href="https://www.buymeacoffee.com/theakashshukla"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=hanlinag/hanlinag)
+![](https://visitor-badge.glitch.me/badge?page_id=theakashshukla/theakashshukla)
