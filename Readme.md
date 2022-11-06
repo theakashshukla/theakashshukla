@@ -7,7 +7,7 @@ I'm a Software Engineer...🧑‍💻 passionate about Android development and d
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://bit.ly/TheAkashshukla)
 * ✉️  You can contact me at [Not Available](mailto:astreakofficial@gmail.com)
-* 🤝  I'm open to collaborating on Astreak-ayni
+* 🤝  I'm open to collaborating on Open Source Project.
 * ⚡  I'm secretly Hacker..... but don't tell anyone
 * 💬 Ask me about: How to Hack Facebook Password 😃
 * 😄 Pronouns: 🤐
