@@ -15,7 +15,8 @@ I'm a Software Engineer...🧑‍💻 passionate about Android development and d
 
 ### 📈 Statistics 
 
-![Akash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=theakashshukla&bg_color=151127&color=bfa8ff&line=636997&point=3e4975&area=true)
+<!-- ![Akash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=theakashshukla&bg_color=151127&color=bfa8ff&line=636997&point=3e4975&area=true) -->
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theakashshukla&theme=github-dark-dimmed)](https://github.com/theakashshukla/github-readme-activity-graph)
  
 <p align="center">  
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theakashshukla&show_icons=true&theme=tokyonight" />
